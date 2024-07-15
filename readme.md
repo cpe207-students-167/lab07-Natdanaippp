@@ -6,7 +6,7 @@
 
 ชื่อ-สกุล : ณัฐดนัย กำธรกิตติกุล
 
-GitHub Page URL :https://github.com/cpe207-students-167/lab07-Natdanaippp
+GitHub Page URL :https://cpe207-students-167.github.io/lab07-Natdanaippp/
 
 ---
 

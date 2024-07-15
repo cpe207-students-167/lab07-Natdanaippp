@@ -91,9 +91,6 @@ submitBtn.onclick = () => {
   else {
     passwordConfirm.classList.add("is-invalid");
   }
-  firstNameInput.placeholder=firstNameInput.value;
-  lastNameInput.placeholder=lastNameInput.value;
-  emailInput.placeholder=emailInput.value;
   console.log(isFirstNameOk);
   console.log(isLastNameOk);
   console.log(isEmailOk);

@@ -2,11 +2,11 @@
 
 ### ป้อนข้อมูลนักศึกษา
 
-รหัส นศ.:
+รหัส นศ.: 660610755
 
-ชื่อ-สกุล :
+ชื่อ-สกุล : ณัฐดนัย กำธรกิตติกุล
 
-GitHub Page URL :
+GitHub Page URL :https://github.com/cpe207-students-167/lab07-Natdanaippp
 
 ---
 
